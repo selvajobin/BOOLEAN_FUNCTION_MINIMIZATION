@@ -58,6 +58,10 @@ assign F1=x1|x2|x3|x4|x5;
 assign F2=x6|x7|x8|x9|x10;
 endmodule
 ```
+**Logic Symbol And Truth Table**
+![image](https://github.com/user-attachments/assets/1448d3a9-cbf9-4c27-b6d5-4fa7c42418fd)
+![image](https://github.com/user-attachments/assets/79d67801-6b59-449c-8346-4ecc8b05bca4)
+
 
 **RTL realization**
 
@@ -68,7 +72,8 @@ endmodule
 
 
 **Timing Diagram**
-![image](https://github.com/user-attachments/assets/183ad766-4b1e-411f-8a8f-0d65bf2a18b0)
+![image](https://github.com/user-attachments/assets/17866a51-191a-4762-928c-614983e11f41)
+
 
 
 
