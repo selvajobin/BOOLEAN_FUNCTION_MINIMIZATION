@@ -36,8 +36,8 @@ Hardware – PCs, Cyclone II , USB flasher
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
 Developed by: 
-Name: Ponguru Aasrith Sairam
-RegisterNumber: 212223240116
+Name: selva jobin s
+RegisterNumber: 212223220102
 */
 ```
 module Verilog1(A,B,C,D,W,X,Y,Z,F1,F2);
