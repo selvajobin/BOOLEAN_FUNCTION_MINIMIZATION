@@ -79,4 +79,5 @@ endmodule
 
 **Result:**
 
+Thus we have implemented the given logic function verify its operation in Quartus using Verilog programming.
 
